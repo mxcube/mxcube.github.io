@@ -5,4 +5,4 @@ color: white
 fa-icon: users 
 ---
 
-# Next MXCuBE meeting organized by EMBL Hamburg and DESY, Spring 2025
+# Next MXCuBE meeting organized by HZB, Spring 2026
