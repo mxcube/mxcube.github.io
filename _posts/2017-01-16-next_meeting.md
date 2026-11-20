@@ -5,4 +5,4 @@ color: white
 fa-icon: users 
 ---
 
-# Next MXCuBE meeting organized by HZB, Spring 2026
+# Next MXCuBE meeting organized by ESRF, Autumn 2026
