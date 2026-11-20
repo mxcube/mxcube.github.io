@@ -6,6 +6,7 @@ fa-icon: users
 ---
 
 # Past meetings
+- [27th. MXCuBE meeting organized by HZB, 09-12.06.2026](doc/past_meetings/2026_bessy/index.html)
 - [26th. MXCuBE meeting organized by Diamond and GPHL, 17-19.11.2025](doc/past_meetings/2025_dls/index.html)
 - 25th. MXCuBE meeting organized by EMBL Hamburg and DESY, 19-21.05.2025
 - [24th. MXCuBE meeting organized by Elettra, 20-22.11.2024](doc/past_meetings/2024_elettra/index.html)
